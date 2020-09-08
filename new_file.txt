@@ -1,1 +1,7 @@
 Adding new file.
+
+
+This line will not conflict with cloned repo.
+
+
+This line will definitely conflict with cloned repo. 
